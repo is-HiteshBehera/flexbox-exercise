@@ -1,2 +1,2 @@
 # flexbox-exercise
- Practise code to learn CSS flexbox
+ Code to practise CSS flexbox

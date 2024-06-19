@@ -9,7 +9,13 @@
   --colors: #f2f2f2;
   --shadow: #00000030 0px 0px 10px 0px;
   --transition: 0.3s ease-in-out;
+  --elementborder: 1px solid white;
 }
+
+* {
+  border: var(--elementborder);
+}
+
 body {
   font: var(--p);
   background-color: var(--colorbody);
